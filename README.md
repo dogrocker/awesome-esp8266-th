@@ -73,6 +73,8 @@
 
 *ภาษาอังกฤษ*
 
+* [ESP8266 Thing Hookup Guide - sparkfun](https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/all)
+
 *Main Repositoty*
 
 * [ArduinoIDE](https://github.com/esp8266/Arduino)
