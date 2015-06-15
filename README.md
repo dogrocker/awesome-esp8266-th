@@ -65,6 +65,11 @@
 *Video*
 
 * [เริ่มติดตั้งบอร์ดNode MCU ESP8266 by wisdomgoody](https://www.youtube.com/watch?v=ocsjRYQhuZQ)
+* [การใช้ ESP8266 อ่านค่า Analog (ADC) อย่างง่าย](http://www.cmmakerclub.com/2015/06/1626) 
+* [ทดสอบใช้ PWM บน ESP8266 เขียนด้วย Arduino IDE + dw.EspMini](http://www.cmmakerclub.com/2015/06/1549)
+* [การอ่านค่า DHT22 ด้วย ESP8266 Native + Arduino IDE](http://www.cmmakerclub.com/2015/06/1707)
+* [การอ่านค่า DS18B20 ด้วย ESP8266 Native + Arduino IDE](http://www.cmmakerclub.com/2015/06/1734)
+* [การใช้งาน MQTT บน ESP8266 + Arduino IDE และทดสอบเชื่อมกับ cloudmqtt](http://www.cmmakerclub.com/2015/06/1595)
 
 *ภาษาอังกฤษ*
 
