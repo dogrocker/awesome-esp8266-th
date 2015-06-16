@@ -240,6 +240,13 @@
 * [มาเล่น NodeMCU กับ DHT22 กัน](http://thaiopensource.org/มาเล่น-nodemcu-กับ-dht22-กัน)
 * [รวมตัวอย่าง](https://github.com/db4linq/lua)
 
+* ภาษาอังกฤษ
+* [hacking to become a ultra-low power, solar cell driven](https://www.hackster.io/fablabeu/esp8266-thing-by-sparkfun)
+* [WiFi Scanner -Know the WiFi Signal around you](http://www.seeedstudio.com/recipe/219-wifi-scanner-know-the-wifi-signal-around-you.html)
+
+*MicroPython*
+
+* [Building and Running MicroPython on the ESP8266](https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266)
 
 ---
 ## ไลบรารีอื่นๆ
