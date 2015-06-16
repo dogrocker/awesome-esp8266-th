@@ -30,7 +30,7 @@
 คำอธิบายแบบยาวๆ (รอเติม)
 
 * [ESP8266 ชิป Wi-Fi ความหวังใหม่ของคนทำคอมพิวเตอร์ฝังตัว Blognone](https://www.blognone.com/node/60187)
-* [ESP8266 ตอนที่ 1 รู้จักกับ ESP และรุ่นที่นิยมใช้งาน](www.ioxhop.com/article/esp8266-ตอนที่-1-รู้จักกับ-esp-และรุ่นที่นิยมใช้งาน)
+* [ESP8266 ตอนที่ 1 รู้จักกับ ESP และรุ่นที่นิยมใช้งาน](http://www.ioxhop.com/article/esp8266-ตอนที่-1-รู้จักกับ-esp-และรุ่นที่นิยมใช้งาน)
 
 
 *ภาษาอังกฤษ*
@@ -109,7 +109,7 @@
 * ESP รีเซตเองบ่อยๆ ลองต่อไฟนอก
 
 * [เมื่อ NodeMCU Firmware มีปัญหา!](http://db4linq.blogspot.com/2015/05/nodemcu-firmware.html)
-* [แก้ปัญหา ESP8266 โปรแกรมไม่เข้า , เสีย](www.elec-za.com/esp8266-โปรแกรมไม่เข้า)
+* [แก้ปัญหา ESP8266 โปรแกรมไม่เข้า , เสีย](http://www.elec-za.com/esp8266-โปรแกรมไม่เข้า)
 * [[NODEMCU] - Install CH340 usb to serial driver on OSX Yosemeti](http://www.codenuke.net/2015/01/nodemcu-install-ch340-usb-to-serial-for-yosemite.html)
 
 *Driver สำหรับตัว NodeMCU*
@@ -131,7 +131,7 @@
 *AT Command*
 
 * [Arduino Nano + ESP8266](http://blog.tui2tone.me/arduino/esp8266/2015/02/07/arduino-wifi-esp8266-control.html)
-* [esp8266-กับการควบคุมหลอดไฟ](www.elec-za.com/arduino-esp8266-กับการควบคุมหลอดไฟ)
+* [esp8266-กับการควบคุมหลอดไฟ](http://www.elec-za.com/arduino-esp8266-กับการควบคุมหลอดไฟ)
 
 *ArduinoIDE*
 
@@ -250,7 +250,7 @@
 รอเพิ่ม
 
 ## เว็บไซต์ไว้ติดตาม
-* [cmmakerclub](www.cmmakerclub.com/tag/esp8266-2)
+* [cmmakerclub](http://www.cmmakerclub.com/tag/esp8266-2)
 * [thaiopensource](http://thaiopensource.org/tag/esp8266)
 * [db4linq](http://db4linq.blogspot.com)
 
