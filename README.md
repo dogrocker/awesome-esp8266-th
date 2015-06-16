@@ -220,6 +220,10 @@
 
 ---
 ## อื่นๆ
+*Work on SDK*
+* [esp-open-sdk](https://github.com/pfalcon/esp-open-sdk)
+* [esp8266-gpio-mqtt-stdout](https://github.com/terenceang/esp8266-gpio-mqtt-stdout)
+
 *AT Command*
 
 * [รอเพิ่ม]()
