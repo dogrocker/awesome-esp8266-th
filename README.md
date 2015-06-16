@@ -21,6 +21,7 @@
 			- [ติดตั้งเอง](#mqtt-server)
 			- [แบบสำเร็จรูป Online Services](#mqtt-server)
 		- [Client](#mqtt-client)
+	- [อื่นๆ](#อื่นๆ)
 - [รวมไลบรารี](ไลบรารี)
 	- [Libs AT Command](#libs-at-command)
 	- [Libs ArduinoIDE (C++)](#libs-arduinoide)
@@ -174,7 +175,8 @@
 * [MQTT.js](https://github.com/mqttjs/MQTT.js) - Javascript Client
 * [Paho By Eclipse](https://eclipse.org/paho) - มีหลายๆภาษาครับทั้ง Java, JavaScript, Python, Android, C/C++, .NET and WinRT
 
-##### อื่นๆ
+---
+## อื่นๆ
 * [การใช้ ESP8266 อ่านค่า Analog (ADC) อย่างง่าย](http://www.cmmakerclub.com/2015/06/1626) 
 * [ทดสอบใช้ PWM บน ESP8266 เขียนด้วย Arduino IDE + dw.EspMini](http://www.cmmakerclub.com/2015/06/1549)
 * [การอ่านค่า DHT22 ด้วย ESP8266 Native + Arduino IDE](http://www.cmmakerclub.com/2015/06/1707)
@@ -184,13 +186,13 @@
 ## ไลบรารีอื่นๆ
 รวมไลบรารีต่างๆ นอกเหนือจากหัวข้อด้านบนสำหรับใช้งานกับ ESP8266
 
-### AT Command Library
+### Libs AT Command Library
 รอเพิ่ม
 
-### ArduinoIDE C++ Library
+### Libs ArduinoIDE C++ Library
 รอเพิ่ม
 
-### Lua Script Library
+### Libs Lua Script Library
 รอเพิ่ม
 
 # Contributing
