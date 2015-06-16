@@ -10,17 +10,17 @@
 - [การแก้ปัญหาเบื้องต้น](#แก้ปัญหาเบื้องต้น)
 - [ตัวอย่างการใช้งาน](#ตัวอย่างการใช้งาน)
 	- [Wifi](#wifi)
-	- [TCP, UDP, Server, Client, RESTful](#tcp-udp-server-client-restful)
+	- [TCP, UDP, Server, Client, RESTful](#tcp-udp-server-client-restful-api)
 	- [MQTT](#mqtt)
 		- [Server](#mqtt-server)
 			- [ติดตั้งเอง](#mqtt-server)
 			- [แบบสำเร็จรูป Online Services](#mqtt-server)
 		- [Client](#mqtt-client)
 	- [อื่นๆ](#อื่นๆ)
-- [รวมไลบรารี](ไลบรารี)
-	- [Libs AT Command](#libs-at-command)
-	- [Libs ArduinoIDE (C++)](#libs-arduinoide)
-	- [Libs Lua Script (NodeMCU)](#libs-lua-script)
+- [รวมไลบรารี](#ไลบรารี)
+	- [Libs AT Command](#at-command-library)
+	- [Libs ArduinoIDE (C++)](#arduinoide-library)
+	- [Libs Lua Script (NodeMCU)](#lua-script-library)
 - [เว็บไซต์ไว้ติดตาม](#เว็บไซต์ไว้ติดตาม)
 
 ---
@@ -240,13 +240,13 @@
 ## ไลบรารีอื่นๆ
 รวมไลบรารีต่างๆ นอกเหนือจากหัวข้อด้านบนสำหรับใช้งานกับ ESP8266
 
-### Libs AT Command Library
+### AT Command Library
 รอเพิ่ม
 
-### Libs ArduinoIDE C++ Library
+### ArduinoIDE C++ Library
 รอเพิ่ม
 
-### Libs Lua Script Library
+### Lua Script Library
 รอเพิ่ม
 
 ## เว็บไซต์ไว้ติดตาม
