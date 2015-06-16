@@ -66,6 +66,7 @@
 * [ตอนที่ 1 ติดตั้ง Arduino IDE ลงบน ESP8266 NodeMCU โดย Thaieasyelec](http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu.html) - ตอนอื่นๆไปตามอ่านเอาเองนะครับ
 * [เพิ่มบอร์ด ESP8266 ใน Arduino IDE](http://thaiopensource.org/เพิ่มบอร์ด-esp8266-ใน-arduino-ide)
 * [มาเริ่มต้นกันกับ NodeMcu v.2 ตอนที่ 1 Getting start](http://robotics-za.blogspot.com/2015/05/esp-12e-nodemcu-v2-writing.html)
+* [Review : Arduino IDE 1.6.4 มีอะไรใหม่มาดูกัน](http://www.appstack.cc/2015/05/review-arduino-ide-1-6-4-มีอะไรใหม่มาดูกัน)
 
 
 *Video*
@@ -244,7 +245,8 @@
 รอเพิ่ม
 
 ### ArduinoIDE C++ Library
-รอเพิ่ม
+* [A client library for the ESP8266 support for MQTT](https://github.com/Imroy/pubsubclient)
+* [A simple library that implements a REST API for Arduino & the ESP8266 WiFi chip.](https://github.com/marcoschwartz/aREST)
 
 ### Lua Script Library
 รอเพิ่ม
