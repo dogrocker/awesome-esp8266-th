@@ -30,7 +30,7 @@
 คำอธิบายแบบยาวๆ (รอเติม)
 
 * [ESP8266 ชิป Wi-Fi ความหวังใหม่ของคนทำคอมพิวเตอร์ฝังตัว Blognone](https://www.blognone.com/node/60187)
-* [ESP8266 ตอนที่ 1 รู้จักกับ ESP และรุ่นที่นิยมใช้งาน](http://www.ioxhop.com/article/esp8266-ตอนที่-1-รู้จักกับ-esp-และรุ่นที่นิยมใช้งาน)
+* [ESP8266 ตอนที่ 1 รู้จักกับ ESP และรุ่นที่นิยมใช้งาน โดย ioxhop](http://www.ioxhop.com/article/esp8266-ตอนที่-1-รู้จักกับ-esp-และรุ่นที่นิยมใช้งาน)
 
 
 *ภาษาอังกฤษ*
@@ -45,7 +45,7 @@
 ### การติดตั้ง
 การใช้งานเบื้องต้นการ Flash Firmware ต่างๆ
 
-* [มา Flash Firmware ให้ ESP8266 ด้วย ESPTool กัน (Linux, Mac)](http://thaiopensource.org/มา-flash-firmware-ให้-esp8266-ด้วย-esptool-กัน)
+* [มา Flash Firmware ให้ ESP8266 ด้วย ESPTool กัน (Linux, Mac) โดย thaiopensource](http://thaiopensource.org/มา-flash-firmware-ให้-esp8266-ด้วย-esptool-กัน)
 
 #### AT Command
 * [ESP8266 วิธีทดสอบและใช้งาน โดย Ayarafun](http://www.ayarafun.com/2014/09/esp8266-at-command-tutorial/)
@@ -64,18 +64,18 @@
 
 #### ArduinoIDE
 * [ตอนที่ 1 ติดตั้ง Arduino IDE ลงบน ESP8266 NodeMCU โดย Thaieasyelec](http://www.thaieasyelec.com/article-wiki/embedded-electronics-application/getting-started-with-esp8266-nodemcu.html) - ตอนอื่นๆไปตามอ่านเอาเองนะครับ
-* [เพิ่มบอร์ด ESP8266 ใน Arduino IDE](http://thaiopensource.org/เพิ่มบอร์ด-esp8266-ใน-arduino-ide)
-* [มาเริ่มต้นกันกับ NodeMcu v.2 ตอนที่ 1 Getting start](http://robotics-za.blogspot.com/2015/05/esp-12e-nodemcu-v2-writing.html)
-* [Review : Arduino IDE 1.6.4 มีอะไรใหม่มาดูกัน](http://www.appstack.cc/2015/05/review-arduino-ide-1-6-4-มีอะไรใหม่มาดูกัน)
+* [เพิ่มบอร์ด ESP8266 ใน Arduino IDE โดย thaiopensource](http://thaiopensource.org/เพิ่มบอร์ด-esp8266-ใน-arduino-ide)
+* [มาเริ่มต้นกันกับ NodeMcu v.2 ตอนที่ 1 Getting start โดย robotics-za](http://robotics-za.blogspot.com/2015/05/esp-12e-nodemcu-v2-writing.html)
+* [Review : Arduino IDE 1.6.4 มีอะไรใหม่มาดูกัน โดย appstack](http://www.appstack.cc/2015/05/review-arduino-ide-1-6-4-มีอะไรใหม่มาดูกัน)
 
 
 *Video*
 
-* [เริ่มติดตั้งบอร์ดNode MCU ESP8266 by wisdomgoody](https://www.youtube.com/watch?v=ocsjRYQhuZQ)
+* [เริ่มติดตั้งบอร์ดNode MCU ESP8266 โดย wisdomgoody](https://www.youtube.com/watch?v=ocsjRYQhuZQ)
 
 *ภาษาอังกฤษ*
 
-* [ESP8266 Thing Hookup Guide - sparkfun](https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/all)
+* [ESP8266 Thing Hookup Guide โดย sparkfun](https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/all)
 
 *Main Repositoty*
 
@@ -93,7 +93,7 @@
 
 *ภาษาอังกฤษ*
 
-* [วิธีลง Firmware แล้วทดลองใช้งาน](http://benlo.com/esp8266/esp8266QuickStart.html)
+* [วิธีลง Firmware แล้วทดลองใช้งาน โดย benlo](http://benlo.com/esp8266/esp8266QuickStart.html)
 
 *Main Repositoty*
 
@@ -109,9 +109,9 @@
 * สาย USB ก็มีส่วนเปลี่ยนแล้วหาย ก็งงเหมือนกัน
 * ESP รีเซตเองบ่อยๆ ลองต่อไฟนอก
 
-* [เมื่อ NodeMCU Firmware มีปัญหา!](http://db4linq.blogspot.com/2015/05/nodemcu-firmware.html)
-* [แก้ปัญหา ESP8266 โปรแกรมไม่เข้า , เสีย](http://www.elec-za.com/esp8266-โปรแกรมไม่เข้า)
-* [[NODEMCU] - Install CH340 usb to serial driver on OSX Yosemeti](http://www.codenuke.net/2015/01/nodemcu-install-ch340-usb-to-serial-for-yosemite.html)
+* [เมื่อ NodeMCU Firmware มีปัญหา! โดย db4linq](http://db4linq.blogspot.com/2015/05/nodemcu-firmware.html)
+* [แก้ปัญหา ESP8266 โปรแกรมไม่เข้า , เสีย โดย elec-za](http://www.elec-za.com/esp8266-โปรแกรมไม่เข้า)
+* [[NODEMCU] - Install CH340 usb to serial driver on OSX Yosemeti โดย codenuke](http://www.codenuke.net/2015/01/nodemcu-install-ch340-usb-to-serial-for-yosemite.html)
 
 *Driver สำหรับตัว NodeMCU*
 
@@ -131,14 +131,14 @@
 
 *AT Command*
 
-* [Arduino Nano + ESP8266](http://blog.tui2tone.me/arduino/esp8266/2015/02/07/arduino-wifi-esp8266-control.html)
-* [esp8266-กับการควบคุมหลอดไฟ](http://www.elec-za.com/arduino-esp8266-กับการควบคุมหลอดไฟ)
+* [Arduino Nano + ESP8266 โดย tui2tone](http://blog.tui2tone.me/arduino/esp8266/2015/02/07/arduino-wifi-esp8266-control.html)
+* [esp8266-กับการควบคุมหลอดไฟ โดย elec-za](http://www.elec-za.com/arduino-esp8266-กับการควบคุมหลอดไฟ)
 
 *ArduinoIDE*
 
-* [มาเล่น NodeMCU กับ ThingSpeak](http://thaiopensource.org/มาเล่น-nodemcu-กับ-thingspeak)
-* [NodeMcu v.2 กับ ThingSpeak](http://robotics-za.blogspot.com/2015/05/nodemcu-thingspeak.html)
-* [NodeMcu v.2 web server กับการควบคุม relay](http://robotics-za.blogspot.com/2015/06/nodemcu-v2-4-web-server-relay.html)
+* [มาเล่น NodeMCU กับ ThingSpeak โดย thaiopensource](http://thaiopensource.org/มาเล่น-nodemcu-กับ-thingspeak)
+* [NodeMcu v.2 กับ ThingSpeak โดย robotics-za](http://robotics-za.blogspot.com/2015/05/nodemcu-thingspeak.html)
+* [NodeMcu v.2 web server กับการควบคุม relay โดย robotics-za](http://robotics-za.blogspot.com/2015/06/nodemcu-v2-4-web-server-relay.html)
 
 *Free RESTful API*
 
@@ -199,7 +199,7 @@
 
 *ArduinoIDE*
 
-* [การใช้งาน MQTT บน ESP8266 + Arduino IDE และทดสอบเชื่อมกับ cloudmqtt](http://www.cmmakerclub.com/2015/06/1595)
+* [การใช้งาน MQTT บน ESP8266 + Arduino IDE และทดสอบเชื่อมกับ cloudmqtt โดย cmmakerclub](http://www.cmmakerclub.com/2015/06/1595)
 
 *Lua Script*
 
@@ -228,14 +228,14 @@
 * [รอเพิ่ม]()
 
 ### ArduinoIDE
-* [การใช้ ESP8266 อ่านค่า Analog (ADC) อย่างง่าย](http://www.cmmakerclub.com/2015/06/1626) 
-* [ทดสอบใช้ PWM บน ESP8266 เขียนด้วย Arduino IDE + dw.EspMini](http://www.cmmakerclub.com/2015/06/1549)
-* [การอ่านค่า DHT22 ด้วย ESP8266 Native + Arduino IDE](http://www.cmmakerclub.com/2015/06/1707)
-* [การอ่านค่า DS18B20 ด้วย ESP8266 Native + Arduino IDE](http://www.cmmakerclub.com/2015/06/1734)
+* [การใช้ ESP8266 อ่านค่า Analog (ADC) อย่างง่าย โดย cmmakerclub](http://www.cmmakerclub.com/2015/06/1626) 
+* [ทดสอบใช้ PWM บน ESP8266 เขียนด้วย Arduino IDE + dw.EspMini โดย cmmakerclub](http://www.cmmakerclub.com/2015/06/1549)
+* [การอ่านค่า DHT22 ด้วย ESP8266 Native + Arduino IDE โดย cmmakerclub](http://www.cmmakerclub.com/2015/06/1707)
+* [การอ่านค่า DS18B20 ด้วย ESP8266 Native + Arduino IDE โดย cmmakerclub](http://www.cmmakerclub.com/2015/06/1734)
 
 ### Lua Script
-* [มาเล่น NodeMCU กับ DHT22 กัน](http://thaiopensource.org/มาเล่น-nodemcu-กับ-dht22-กัน)
-* [รวมตัวอย่าง](https://github.com/db4linq/lua)
+* [มาเล่น NodeMCU กับ DHT22 กัน โดย thaiopensource](http://thaiopensource.org/มาเล่น-nodemcu-กับ-dht22-กัน)
+* [รวมตัวอย่าง โดย db4linq](https://github.com/db4linq/lua)
 
 *ภาษาอังกฤษ*
 
@@ -269,5 +269,8 @@
 เนื่องจากข้อมูลของ ESP8266 เยอะมากๆ ท่านใดอยากเพิ่มเติมหรือแก้ไขอะไรตรงไหนผมยินดีมากเลยครับ สามารถส่งโดยการกด Fork แล้ว Pull Request มาได้เลยหรือ จะกดที่ Issue แล้วเพิ่มในนั้นก็ได้เลยครับแล้วผมจะรีบลงให้เพื่อให้หลายๆท่านที่มาใหม่จะได้ไม่หลงทางครับ
 
 - [การ Pull Request](https://guides.github.com/activities/contributing-to-open-source) - ลองอ่านในส่วนของ Pull Request นะครับ
+
+- ไกด์ไลน์ในการเขียนคือจะเริ่มต้นด้วยชื่อของบทความแล้วตามด้วยที่มานะครับอาจจะใช้ชื่อโดเมน (รบกวนตัด www กับ .??? ทิ้งไปนะครับจะได้สั้นๆ) หรือชื่อเจ้าของบทความก็ได้ ส่วนจะอธิบายต่อหรือไม่ก็ได้ เช่น "[ชื่อของบทความ โดย ใคร(ที่มา)] (ลิงค์) - คำอธิบายเพิ่มเติม"
+
 
 Facebook Group: [ESP8266 THAILAND](https://www.facebook.com/groups/465468593611712)
